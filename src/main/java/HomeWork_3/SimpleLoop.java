@@ -1,3 +1,5 @@
+package HomeWork_3;
+
 public class SimpleLoop {
 
     public static void main(String args[]) {
